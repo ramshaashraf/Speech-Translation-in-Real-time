@@ -29,8 +29,3 @@
 
 
 
-
-## Daily checkout ✅
-- [X]  Checkout by Rudraksh ✅
-- [X]  Checkout by Ramsha ✅
-
